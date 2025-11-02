@@ -49,6 +49,7 @@ eBook_drinkshop/
     ├── Models.swift                 # 資料模型定義（品牌、飲品等）
     ├── RecommendationsView.swift    # 新品推薦頁面
     └── eBookApp.swift               # App 進入點 (App 主體)
+```
 
 ## 🛠 技術重點
 - 使用 SwiftUI 打造現代化介面
