@@ -1,4 +1,4 @@
-# 🧋 eBook Drink Shop
+# 🧋 eBook: Drink Shop App
 
 一款以 **SwiftUI** 製作的手搖飲品牌整理 App。
 使用者可以依品牌查看所有飲品與價格、收藏喜愛的品項，
